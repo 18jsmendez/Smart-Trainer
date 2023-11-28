@@ -96,4 +96,4 @@ with mp_pose.Pose(min_detection_confidence=0.5,min_tracking_confidence=0.5) as p
 captura.release()
 cv2.destroyAllWindows()    
 
-import random as rd 
+
